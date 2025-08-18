@@ -11,5 +11,5 @@ Parsa, A., Vaibhav, P., Caspar, L., Pigozzi, F., Witkowski, O., \& Levin, M. Bid
 </br>
 </br>
 
-## Video Recordings
+## Experiment 1
 ![](https://github.com/AtoosaParsa/alife-2025/blob/main/experiment_1.gif)
