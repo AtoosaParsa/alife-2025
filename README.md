@@ -12,5 +12,4 @@ Parsa, A., Vaibhav, P., Caspar, L., Pigozzi, F., Witkowski, O., \& Levin, M. Bid
 </br>
 
 ## Video Recordings
-![](https://github.com/AtoosaParsa/alife-2025/blob/main/exp1_xenobot1.gif)
-![](https://github.com/AtoosaParsa/alife-2025/blob/main/exp2_xenobot2.gif)
+![](https://github.com/AtoosaParsa/alife-2025/blob/main/experiment_1.gif)
