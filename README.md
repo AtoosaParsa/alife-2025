@@ -1,4 +1,4 @@
-# Bidirectional Communication Between Xenobot Cultures: Toward Collective Intelligence Across Biological Systems
+# Bidirectional Communication Between Xenobot Cultures? Toward Collective Intelligence Across Diverse Biological Systems
 
 This repository contains the source code and data for the experiments in the following paper:
 
