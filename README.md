@@ -1,8 +1,8 @@
 # Bidirectional Communication Between Xenobot Cultures? Toward Collective Intelligence Across Diverse Biological Systems
 
-This repository hosts the source code and data for the experiments in the following paper:
+This repository hosts the source code and data for the experiments presented at the [ALIFE 2025 Conference](https://2025.alife.org/):
 
-Parsa, A., Vaibhav, P., Caspar, L., Pigozzi, F., Witkowski, O., \& Levin, M. Bidirectional Communication Between Xenobot Cultures? Toward Collective Intelligence Across Diverse Biological Systems. [ALIFE 2025](https://doi.org/10.1162/ISAL.a.911).
+[Parsa, A., Vaibhav, P., Caspar, L., Pigozzi, F., Witkowski, O., \& Levin, M. Bidirectional Communication Between Xenobot Cultures? Toward Collective Intelligence Across Diverse Biological Systems](https://doi.org/10.1162/ISAL.a.911)
 
 </br>
 <p align="center">
@@ -15,6 +15,8 @@ Parsa, A., Vaibhav, P., Caspar, L., Pigozzi, F., Witkowski, O., \& Levin, M. Bid
 <p align="center">
   <img src="https://github.com/AtoosaParsa/alife-2025/blob/main/video.gif" alt="animated"/>
 </p>
+</br>
+</br>
 
 ## Citation 
 ```
