@@ -13,7 +13,7 @@ Parsa, A., Vaibhav, P., Caspar, L., Pigozzi, F., Witkowski, O., \& Levin, M. Bid
 
 ## Overview
 <p align="center">
-  ![](https://github.com/AtoosaParsa/alife-2025/blob/main/experiment_1.gif)
+  <img src="https://github.com/AtoosaParsa/alife-2025/blob/main/experiment.gif" alt="animated"/>
 </p>
 
 ## Citation 
